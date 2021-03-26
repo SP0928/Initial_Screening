@@ -1,0 +1,10 @@
+Rest Api Endpoint :
+http://localhost:8080/RestService/getSubstring?input=testtesttt
+
+H2 Data base DDL:
+
+ CREATE TABLE CONVERTSTR(
+   STRID INT NOT NULL, 
+   SUBSTRNG VARCHAR(1000) NOT NULL
+    
+);
